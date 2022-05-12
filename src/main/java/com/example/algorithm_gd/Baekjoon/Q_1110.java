@@ -20,4 +20,4 @@ public class Q_1110 {
         System.out.println(cnt);
     }
 }
-}
+
