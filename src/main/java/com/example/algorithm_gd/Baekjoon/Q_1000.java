@@ -1,9 +1,10 @@
 package com.example.algorithm_gd.Baekjoon;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 public class Q_1000 {
-        public static void main(String[] args) {
+        public static void main(String[] args) throws IOException {
 
         Scanner sc = new Scanner(System.in);
 
